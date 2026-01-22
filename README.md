@@ -14,6 +14,7 @@ The source data represents user behavior (views, carts, purchases) from a multi-
 - **Data type:** Clickstream / behavioral events
 - **Time range used:** Monthly CSV files (e.g., Oct–Nov 2019)
 - **Event grain:** One row per user action
+- **Dataset URL:**  https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ---
 
